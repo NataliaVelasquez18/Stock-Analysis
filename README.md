@@ -3,15 +3,17 @@
 The purpose of this project is to make an efficient way to view and analyze multiple stocks by utilizing VBA tools. 
 
 
-Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+## Results: 
 
+Refactoring allowed us to improve the design of the code at the same time than we preserved functionality.  Before refactoring the aproximate time it took to run the script was about 1 second.
 
+In the following images we can observe the results for the refactored code:
 
-Summary: In a summary statement, address the following questions.
-What are the advantages or disadvantages of refactoring code?
-How do these pros and cons apply to refactoring the original VBA script?
 
 <img src="https://github.com/NataliaVelasquez18/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png" width = "1000" height= "250" />
 
 
 <img src="https://github.com/NataliaVelasquez18/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018.png" width = "1000" height= "250" />
+
+
+Refactoring can help making the code more efficient but at the same time it can lack flexibility.
